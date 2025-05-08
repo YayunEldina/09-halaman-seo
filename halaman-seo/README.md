@@ -11,22 +11,22 @@
 
 1. Menambahkan Favicon
 
-![gambar1](/Halaman-SEO/ss/tentang.png)
+<img src="img/tentang.png">
 
 2. Menambahkan Metadata untuk SEO dan Open Graph Tags untuk Media Sosial
 
 3. Menguji SEO
     - Tentang Saya
 
-        ![gambar1](/Halaman-SEO/ss/hal-tentang.png)
+        <img src="img/hal-tentang.png">
 
     - Project
 
-        ![gambar1](/Halaman-SEO/ss/hal-projects.png)
+        <img src="img/hal-projects.png">
 
     - Esai
 
-        ![gambar1](/Halaman-SEO/ss/hal-essay.png)
+        <img src="img/hal-essay.png">
 
 # Tugas
 
@@ -38,15 +38,16 @@ Lakukan pengujian SEO dengan
 
     - Tentang Saya
 
-        ![gambar1](/Halaman-SEO/ss/tugas-tentang.png)
+        <img src="img/tugas-tentang.png">
+
 
     - Project
 
-        ![gambar1](/Halaman-SEO/ss/tugas-projects.png)
+        <img src="img/tugas-projects.png">
 
     - Esai
 
-        ![gambar1](/Halaman-SEO/ss/tugas-essay.png)
+        <img src="img/tugas-essay.png">
 
 # Kesimpulan
 Dalam praktikum ini, saya telah mempelajari cara membuat halaman Next.js yang SEO-friendly dengan menambahkan metadata, favicon, dan Open Graph Tags. Dengan teknik ini, website saya akan lebih mudah ditemukan oleh mesin pencari dan menarik lebih banyak pengunjung.
